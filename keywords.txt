@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+OS288048	KEYWORD1
+csPin	KEYWORD1
+rstPin	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+getFont	KEYWORD2
+display	KEYWORD2
+clearDisplay	KEYWORD2
+invertDisplay	KEYWORD2
+displayOff	KEYWORD2
+displayOn	KEYWORD2
+allPixelOff	KEYWORD2
+allPixelOn	KEYWORD2
+setContrast	KEYWORD2
+verticalScroll	KEYWORD2
+setBrightness	KEYWORD2
+powerSave	KEYWORD2
+clearArea	KEYWORD2
+dimWindow	KEYWORD2
+drawPixel	KEYWORD2
+getPixel	KEYWORD2
+getBuffer	KEYWORD2
+oled_command	KEYWORD2
+oled_commandList	KEYWORD2
+_init	KEYWORD2
+
+
+######################################
+# Constants (LITERAL1)
+######################################
